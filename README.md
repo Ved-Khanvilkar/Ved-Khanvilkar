@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ved Khanvilkar</h1>
 
 <h3 align="center">
-Competitive Programmer • AI & ML Student • Building AI Projects
+Competitive Programmer • CSE(AI & ML) Student • Trying to Building AI and DEV Projects
 </h3>
 
 ---
