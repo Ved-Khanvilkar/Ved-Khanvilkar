@@ -22,7 +22,8 @@ Competitive Programmer • CSE(AI & ML) Student • Trying to Building AI and DE
 <table>
 <tr>
 <td align="center">
-<a href="https://leetcode.com/u/hecker_101/" target="_blank"
+<a href="https://leetcode.com/u/hecker_101/"
+   target="_blank"
    rel="noopener noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50"><br>
 <b>LeetCode</b>
@@ -30,7 +31,8 @@ Competitive Programmer • CSE(AI & ML) Student • Trying to Building AI and DE
 </td>
 
 <td align="center">
-<a href="https://codeforces.com/profile/vedkhanvilkar306" target="_blank"
+<a href="https://codeforces.com/profile/vedkhanvilkar306"
+   target="_blank"
    rel="noopener noreferrer">
 <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="50"><br>
 <b>Codeforces</b>
@@ -38,7 +40,8 @@ Competitive Programmer • CSE(AI & ML) Student • Trying to Building AI and DE
 </td>
 
 <td align="center">
-<a href="https://www.codechef.com/users/hecker_101" target="_blank"
+<a href="https://www.codechef.com/users/hecker_101"
+   target="_blank"
    rel="noopener noreferrer">
 <img src="https://cdn.codechef.com/images/cc-logo.svg" height="50"><br>
 <b>CodeChef</b>
@@ -46,7 +49,6 @@ Competitive Programmer • CSE(AI & ML) Student • Trying to Building AI and DE
 </td>
 </tr>
 </table>
-
 ---
 
 
